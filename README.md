@@ -1,3 +1,5 @@
+Udacity Smart Contract Course Project 5
+
 truffle version: 5.2.3
 openzepplin version: 2.1.2
 token name: Star
